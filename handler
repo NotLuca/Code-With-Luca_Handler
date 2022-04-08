@@ -68,7 +68,7 @@ module.exports = async (client) => {
       );
       console.log(
         chalk.green.bold("Still Need Help? Contact Me:\n") +
-          chalk.yellow.italic("Discord: Luca\n") +
+          chalk.yellow.italic("Discord: ༒Luca×͜×༒#3524\n") +
           chalk.yellow.italic("Discord Server: dsc.gg/kena")
       );
     } else {
