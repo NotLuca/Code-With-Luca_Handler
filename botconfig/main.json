@@ -1,19 +1,19 @@
 {
-  "clienttoken": "OTMyMTc1MDgzMTQzODM5Nzk1.YePJsg.kNlPuHv1M1Xip9ZJih1_UrhdbwY",
+  "clienttoken": "token",
 
   "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
 
   "clientname": "Milenium",
 
-  "clientid": "783719904431177768",
+  "clientid": "",
 
-  "TestingServerID": "904355766876643358",
+  "TestingServerID": "",
 
   "clientavatar":"",
 
   "prefix": ">",
 
-  "developerID": ["841901577811001367"],
+  "developerID": [""],
 "mongooseConnectionString": "mongodb+srv://Data:public@cluster0.zu3rj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "colorthemecode":"#FF5733",
   
