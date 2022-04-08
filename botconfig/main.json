@@ -1,0 +1,27 @@
+{
+  "clienttoken": "OTMyMTc1MDgzMTQzODM5Nzk1.YePJsg.kNlPuHv1M1Xip9ZJih1_UrhdbwY",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Milenium",
+
+  "clientid": "783719904431177768",
+
+  "TestingServerID": "904355766876643358",
+
+  "clientavatar":"",
+
+  "prefix": ">",
+
+  "developerID": ["841901577811001367"],
+"mongooseConnectionString": "mongodb+srv://Data:public@cluster0.zu3rj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "colorthemecode":"#FF5733",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down","Subscribe To Boba lol", "Hold ur horses...."],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS",
+  "topgg": ""
+}
+
+
