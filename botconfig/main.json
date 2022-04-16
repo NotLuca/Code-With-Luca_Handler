@@ -17,7 +17,7 @@
 "mongooseConnectionString": "mongodb+srv://Data:public@cluster0.zu3rj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "colorthemecode":"#FF5733",
   
-  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down","Subscribe To Boba lol", "Hold ur horses...."],
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down", "Hold ur horses...."],
 
 
   "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS",
